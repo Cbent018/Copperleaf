@@ -1,0 +1,39 @@
+<!--banner image-->
+<div class="pageBanner"><img alt="" class="bannerimage" src="http://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/senior-living-options-1.jpg" width="100%" />
+</div>
+
+<!--container sets padding on edges-->
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<h1 class="locationsHeaderText"> North Haven Assisted Living</h1>
+			<hr/>
+			<p>At North Haven, our philosophy of care is unique to Assisted Living and Memory Care. By providing the finest in personal care, supportive services, and leisure activities, we strive to create a supportive environment for older individuals who cannot live alone, but do not require nursing home care. We prioritize health and happiness through the art of caregiving. Our focus is your loved one’s preservation of dignity and quality of life.</p>
+			<p>North Haven Assisted Living and Memory Care employs friendly and compassionate caregivers with registered nursing oversight to further assist residents with daily living activities and any changing needs. Our talented care staff receive quality training exceeding state requirements and industry standards.</p>
+			<p>North Haven, one of our three homes featured in Stevens Point, offers end of life care, as well as all levels of dementia care and hospice. Our unique recreational programming allows the residents of North Haven to continue to participate in appropriate activities for their level of care.</p>
+		</div>
+		<div class="col-md-4" id="location-section">
+			<div class="contactUsContainer">
+				<h1 class="contactUsTitle">Contact Us</h1>
+				<hr/>
+				<h3 class="contactUsPhone"><a href="tel:715-343-8825">715 343 8825</a></h3>
+				<!--<p><a href="mailto:webmaster@example.com">Jon Doe</a></p>-->
+				<h3 class="contactUsAddress"><a href="http://maps.google.com/maps?q=2201+Eagle+Summit,+StevensPoint,+WI+54482" target="_blank">2201 Eagle Summit, Stevens Point, WI 54481</a></h3>
+				<center><span class="contactUsMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.33711375927!2d-89.56849404826762!3d44.54920380194364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88005ab52a7b1af1%3A0x5b7d8c666a3d2024!2s2201+Eagle+Summit%2C+Stevens+Point%2C+WI+54482!5e0!3m2!1sen!2sus!4v1525205475627" width="auto" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe></span></center>
+				<p class="contactUsText">Call or visit our premier community on Eagle Summit in Stevens Point… Where caring is our calling!</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4">
+			<img alt="" class="northRidgeImg" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/NorthRidge.jpg" width="100%" />
+		</div>
+		<div class="col-md-4">
+			<img alt="" class="northRidgeImg" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/NorthRidge.jpg" width="100%" />
+		</div>
+		<div class="col-md-4">
+			<img alt="" class="northRidgeImg" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/NorthRidge.jpg" width="100%" />
+		</div>
+	</div>
+</div>

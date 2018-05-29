@@ -1,0 +1,39 @@
+<!--banner image-->
+<div class="pageBanner"><img alt="" class="bannerimage" src="http://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/senior-living-options-1.jpg" width="100%" />
+</div>
+
+<!--container sets padding on edges-->
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<h1 class="locationsHeaderText">Copperleaf Assisted Living of Marathon</h1>
+			<hr/>
+			<p>At Copperleaf Assisted Living of Marathon, our philosophy of care is unique to Assisted Living and Memory Care. By providing the finest in personal care, supportive services, and leisure activities, we strive to create a supportive environment for older individuals who cannot live alone, but do not require nursing home care. We prioritize health and happiness through the art of caregiving. Our focus is your loved one’s preservation of dignity and quality of life.</p>
+			<p>Marathon Assisted Living employs friendly and compassionate caregivers with registered nursing oversight to further assist residents with daily living activities and any changing needs. Our talented care staff receive quality training that exceeds state requirements and industry standards.</p>
+			<p>Copperleaf Assisted Living of Marathon, one of our three homes featured in the Wausau area, offers varied levels of care, ranging from independent living to end of life care, as well as all levels of dementia care and hospice. Our unique recreational programming allows the residents of Marathon to continue to participate in the social activities they have always enjoyed.</p>
+		</div>
+		<div class="col-md-4" id="location-section">
+			<div class="contactUsContainer">
+				<h1 class="contactUsTitle">Contact Us</h1>
+				<hr/>
+				<h3 class="contactUsPhone"><a href="tel:715-443-2727">715 443 2727</a></h3>
+				<!--<p><a href="mailto:webmaster@example.com">Jon Doe</a></p>-->
+				<h3 class="contactUsAddress"><a href="http://maps.google.com/maps?q=663+Maratech+Ave,+Marathon City,+WI+54448" target="_blank">663 Maratech Ave, Marathon, WI 54448</a></h3>
+				<center><span class="contactUsMap"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d362750.9293621282!2d-89.97486136002777!3d44.74018744218169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88001cb9c7577ab7%3A0x4cbb065f3bb655a4!2sCopperleaf+Assisted+Living+of+Marathon!5e0!3m2!1sen!2sus!4v1526399381994" width="auto" height="auto" frameborder="0" style="border:0" allowfullscreen></iframe></span></center>
+				<p class="contactUsText">Call or visit our premier community of Schofield… Where caring is our calling!</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-4">
+			<img alt="" class="" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/Marathon.jpg" width="100%" />
+		</div>
+		<div class="col-md-4">
+			<img alt="" class="" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/Marathon.jpg" width="100%" />
+		</div>
+		<div class="col-md-4">
+			<img alt="" class="" src="https://www.stevenspointbusinessdirectory.com/images/stevenspointbusinessdirectorycom/bizcategories/12545/image/Marathon.jpg" width="100%" />
+		</div>
+	</div>
+</div>
